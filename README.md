@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Ricardo Monteiro</h1>
 <h3 align="center">A passionate frontend developer from Porto, Portugal</h3>
-<img align="right" alt="Coding" width="200" src="./coding1.jpeg" >
+<img align="right" alt="Coding" width="200" src="./coding3.jpeg" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ricardo46&label=Profile%20views&color=0e75b6&style=flat" alt="ricardo46" /> </p>
 
 - 💬 Ask me about **React, JavaScript, TypeScript, HTML, next.js**
