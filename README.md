@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
   <img src="/header2.png">
-</p>
+</div>
 
 <h1 align="center">Hi 👋, I'm Ricardo Monteiro</h1>
 <h3 align="center">A passionate frontend developer from Porto, Portugal</h3>
